@@ -1,7 +1,7 @@
 {
     "features": [
         {
-            "id": "bach-completion",
+            "id": "git-completion",
             "name": "Git branch completion",
             "include": ["ubuntu"]
         }
