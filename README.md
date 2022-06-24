@@ -7,7 +7,7 @@
 You can install [**git-completion**] to your project via this Github repo. Just add the following line to your devcontainer.json: 
 ```
 "features": {
-    "olliglorioso/mongodb-org-tools/git-completion": "latest"
+    "olliglorioso/git-completion/git-completion": "latest"
 } 
 ``` 
 Or add on top of previous features.
