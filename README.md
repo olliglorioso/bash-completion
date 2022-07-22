@@ -3,8 +3,8 @@
 > If you face problems with this feature, message me. Microsoft is continuously developing this feature with \
 > remote containers, so this feature might become unavailable due to new changes.
 
-# mongodb-org-tools for your remote container (unofficial)
-You can install [**git-completion**] to your project via this Github repo. Just add the following line to your devcontainer.json: 
+# git branch completion for your remote container
+You can install **git-completion** to your project via this Github repo. Just add the following line to your devcontainer.json: 
 ```
 "features": {
     "olliglorioso/git-completion/git-completion": "latest"
